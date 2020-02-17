@@ -1,9 +1,3 @@
-/*
- * LINE_FOLLOWER.cpp
- *
- * Created: 25-Jan-19 4:40:54 PM
- *  Author: HP
- */ 
 
 
 #include <avr/io.h>
