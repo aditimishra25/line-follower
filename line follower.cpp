@@ -26,6 +26,6 @@ int main(void)
 		else if (PIND&)
 		{
 		}
-        //TODO:: Please write your application code 
+       
     }
 }
